@@ -1,1 +1,0 @@
-D:\Projects_2\ThermocoupleExample\ThermocoupleExample\ThermocoupleExample.csproj;arm
